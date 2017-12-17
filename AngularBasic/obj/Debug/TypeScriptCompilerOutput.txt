@@ -1,0 +1,5 @@
+D:\angularsamples\AngularBasic\AngularBasic\Model\Customer.js
+D:\angularsamples\AngularBasic\AngularBasic\Binder\CustomerComponent.js
+D:\angularsamples\AngularBasic\AngularBasic\Binder\CustomerModuleLibrary.js
+D:\angularsamples\AngularBasic\AngularBasic\Binder\Startup.js
+D:\angularsamples\AngularBasic\AngularBasic\Model\Customer.js
